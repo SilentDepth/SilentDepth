@@ -1,5 +1,7 @@
 ### Hi!
 
-Here's a 🐧 , who loves web development and puts a 🐱 to the left.
+🐧 I am a penguin.
 
-The 🐱 has no more words to say.
+🐱 I have a cat.
+
+🧑‍💻 I develop web apps.
